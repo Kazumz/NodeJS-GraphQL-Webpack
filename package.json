@@ -7,7 +7,7 @@
     "start": "npx webpack --config scripts/webpack.config.js && node dist/main.js"
   },
   "author": "Kallum Parr",
-  "license": "ISC",
+  "license": "GNU3",
   "dependencies": {
     "express": "^4.17.1",
     "express-graphql": "^0.9.0",
