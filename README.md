@@ -1,6 +1,4 @@
-# GraphQLWebpack
-A simple example of using GraphQL with Webpack and TypeScript 3.7.x.
-
-This was done to ensure a suitable supporting environment is in place for the inevitable extension of this GraphQL implementation.
+# NodeJS / GraphQL / Webpack
+A simple example of using NodeJS, GraphQL, and Webpack with TypeScript 3.7.x.
 
 - To start, run 'npm install', then 'npm run start'.
